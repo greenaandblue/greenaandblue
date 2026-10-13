@@ -1,6 +1,6 @@
 ## Hi, I'm Huihang
 
-Computer Engineering student at **Penn State** (B.S., expected 2028). I work on **robotics software**: ROS / ROS 2 bring-up, LiDAR mapping and navigation, multi-robot communication, and controlling a 3D printer that rides on a mobile robot.
+I am a Computer Engineering student at **Penn State University** (B.S., expected 2028). I work on **robotics software**: ROS / ROS 2 bring-up, LiDAR mapping and navigation, multi-robot communication, and controlling a 3D printer that rides on a mobile robot.
 
 - **Now:** ROS 2 Jazzy on a Clearpath Husky A200 (SLAM, Nav2, 3D LiDAR maps) and linking it to a Unitree Go2 over Wi‑Fi for a 3D-reconstruction / digital-twin project
 - **Research:** mobile additive manufacturing. I built the print controller that pauses, resumes and edits G-code while a KUKA KMR iiwa moves

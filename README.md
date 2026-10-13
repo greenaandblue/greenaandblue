@@ -13,9 +13,9 @@ Computer Engineering student at **Penn State** (B.S., expected 2028). I work on 
 |---|---|---|
 | [**HuskyA200**](https://github.com/greenaandblue/HuskyA200) | Clearpath Husky A200 on ROS 2 Jazzy: bring-up, SLAM + Nav2, and a KISS-ICP 3D LiDAR map (0.13 m drift over 59.5 m) | ROS 2 · C++ · Python |
 | [**Husky-Go2-MultiRobot**](https://github.com/greenaandblue/Husky-Go2-MultiRobot) | Husky ↔ Unitree Go2 over Wi‑Fi: `unitree_sdk2` → ROS 2 bridge and a zenoh link across Foxy / Jazzy; the Husky commands the dog to stand up / lie down | ROS 2 · C++ · zenoh |
-| [**3dprinter_control_PRINTRUN**](https://github.com/greenaandblue/3dprinter_control_PRINTRUN) | Line-level pause / resume, G-code override & injection, and motion-based auto pause for a printer on a mobile manipulator | ROS · Python · Printrun |
+| [**Mobile-AM-Print-Control**](https://github.com/greenaandblue/Mobile-AM-Print-Control) | Line-level pause / resume, G-code override & injection, and motion-based auto pause for a printer on a mobile manipulator | ROS · Python · Printrun |
 | [**Single-Image-to-3D-Reconstruction**](https://github.com/greenaandblue/Single-Image-to-3D-Reconstruction) | One photo → depth (Depth Anything V2) → colored point cloud and mesh | PyTorch · NumPy |
-| [**ROS_octoprint**](https://github.com/greenaandblue/ROS_octoprint) | OctoPrint-based G-code streamer with precise pause, latency benchmarks and feed-rate override | ROS · Python · REST |
+| [**ROS-OctoPrint**](https://github.com/greenaandblue/ROS-OctoPrint) | OctoPrint-based G-code streamer with precise pause, latency benchmarks and feed-rate override | ROS · Python · REST |
 | [**Setup-ROS-on-macOS-Apple-Silicon**](https://github.com/greenaandblue/Setup-ROS-on-macOS-Apple-Silicon) | Field guide: four ways to run ROS on M-series Macs, with real errors and fixes | Docker · ROS 1/2 |
 | [**ROS-based-Multi-Sensor**](https://github.com/greenaandblue/ROS-based-Multi-Sensor) | Vibration + IMU acquisition framework for industrial-robot condition monitoring (in progress) | ROS · Python |
 

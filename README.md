@@ -1,4 +1,4 @@
-## Hi, I'm Huihang Liu 👋
+## Hi, I'm Huihang
 
 Computer Engineering student at **Penn State** (B.S., expected 2028). I work on **robotics software**: ROS / ROS 2 bring-up, LiDAR mapping and navigation, multi-robot communication, and controlling a 3D printer that rides on a mobile robot.
 
